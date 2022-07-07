@@ -1,3 +1,3 @@
 # Chess
 
-Terminal Chess game project for my Software Methodology class
+Chess game built using Java and abstract classes
